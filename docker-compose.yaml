@@ -1,5 +1,3 @@
-version: "3.3"
-
 services:
 
   pwndrop:
@@ -15,5 +13,4 @@ services:
     ports:
       - 8200:8080
     restart: unless-stopped
-
     
