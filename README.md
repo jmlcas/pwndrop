@@ -1,4 +1,3 @@
-# pwndrop
-Pwndrop - Docker-compose
+# Pwndrop
 
-Ver en "localhost:8200/pwndrop"
+Ver en "http://localhost:8200/pwndrop"
